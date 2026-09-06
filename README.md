@@ -7,5 +7,3 @@
 <h3 align="center">welcome to my profile</h3>
 
 <p align="center">i'm a ml student and i love ouro kronii～☆</p>
-
-<p align="center">learning how to code while trying to fight the urge to sleep</p>
