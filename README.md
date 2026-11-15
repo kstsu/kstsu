@@ -9,4 +9,4 @@
 
 <h3 align="center">welcome to my profile</h3>
 
-<p align="center">i'm a ml student and i love ouro kronii～☆</p>
+<p align="center">ouro kronii</p>
