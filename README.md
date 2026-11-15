@@ -9,4 +9,4 @@
 
 <h3 align="center">welcome to my profile</h3>
 
-<p align="center">ouro kronii</p>
+<p align="center">only thing i love and care is ouro kronii</p>
