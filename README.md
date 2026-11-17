@@ -31,6 +31,5 @@ only thing i love and care about is ouro kronii
 ---
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=fnp-BwjqBFc"><sub>⏳ she says she's perfect and i believe her</sub></a>
-  <sub>· thanks for stopping by</sub>
+  <sub>⏳</sub><a href="https://www.youtube.com/watch?v=fnp-BwjqBFc"><sub> she says she's perfect and i believe her</sub></a>
 </p>
