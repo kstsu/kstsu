@@ -18,14 +18,12 @@ only thing i love and care about is ouro kronii
 ---
 
 <h3 align="center">about</h3>
-
 <p align="center">
   i build whatever i feel like<br>
   <code>python</code> &nbsp;·&nbsp; <code>javascript</code> &nbsp;·&nbsp; <code>whatever gets the job done</code>
 </p>
 
 <h3 align="center">currently</h3>
-
 <p align="center">
   building <a href="https://github.com/kstsu/squeeze"><b>squeeze</b></a> — a lightweight video compressor
 </p>
