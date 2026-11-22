@@ -25,7 +25,7 @@ only thing i love and care about is ouro kronii
 
 <h3 align="center">currently</h3>
 <p align="center">
-  building <a href="https://github.com/kstsu/vencord-plugin-clipshrink"><b>clipshrink</b></a> — vencord plugin video compressor for discord.
+  building <a href="https://github.com/kstsu/vencord-clipshrink"><b>clipshrink</b></a> — a vencord plugin that trims and compresses videos in discord.
 </p>
 
 ---
