@@ -1,30 +1,13 @@
 <div align="center">
 
-<a href="https://x.com/sleepykronie/status/2052664369960669539/photo/1">
-  <img src="https://github.com/user-attachments/assets/5373787e-0d44-45bc-ae84-ab8eed66a925" alt="Ouro Kronii fanart banner" width="520">
+<a href="https://x.com/seeshin_see/status/2032662036887560638/photo/1">
+  <img src="https://pbs.twimg.com/media/HDV3KwZaIAAnViG?format=jpg&name=large" alt="Ouro Kronii birthday live illustration by SEEshin" width="720">
 </a>
 
-<h1>hi, i'm kisetsu</h1>
+<img src="./assets/kisetsu-glow.svg" alt="kisetsu with a subtle indigo glow" width="720" height="72">
 
-<p><em>welcome to my profile</em></p>
-
-only thing i love and care about is ouro kronii
-<br><br>
-<a href="https://hits.sh/github.com/kstsu/">
-  <img src="https://hits.sh/github.com/kstsu.svg?label=visitors&color=4b8bf5&labelColor=11151c" alt="visitors">
-</a>
+<div>python&nbsp;&nbsp;·&nbsp;&nbsp;ui / ux</div>
+<img src="./assets/time-seal.svg" alt="Animated time seal" width="720" height="48">
+<div><a href="https://hits.sh/github.com/kstsu/"><img src="https://hits.sh/github.com/kstsu.svg?label=kronies&color=171725&labelColor=171725&style=flat-square" alt="kronie visitor count"></a></div>
+<div><a href="https://www.youtube.com/watch?v=fnp-BwjqBFc"><strong>⏳ she says she's perfect and i believe her</strong></a></div>
 </div>
-
----
-
-<h3 align="center">about</h3>
-<p align="center">
-  i build whatever i feel like<br>
-  <code>python</code> &nbsp;·&nbsp; <code>ui / ux</code> &nbsp;·&nbsp; <code>whatever gets the job done</code>
-</p>
-
----
-
-<p align="center">
-  <sub>⏳</sub><a href="https://www.youtube.com/watch?v=fnp-BwjqBFc"><sub> she says she's perfect and i believe her</sub></a>
-</p>

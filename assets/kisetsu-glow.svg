@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 72" role="img" aria-labelledby="title desc">
+  <title id="title">kisetsu</title>
+  <desc id="desc">The name kisetsu with a subtle animated indigo glow.</desc>
+
+  <defs>
+    <filter id="text-glow" x="-50%" y="-100%" width="200%" height="300%">
+      <feGaussianBlur stdDeviation="4" />
+    </filter>
+  </defs>
+
+  <g text-anchor="middle" font-family="DM Mono, Consolas, monospace" font-size="32" font-weight="600" letter-spacing=".5">
+    <text x="360" y="47" fill="#8b89c8" opacity=".38" filter="url(#text-glow)">
+      kisetsu
+      <animate attributeName="opacity" values=".22;.72;.22" dur="4s" repeatCount="indefinite" />
+    </text>
+    <text x="360" y="47" fill="#d6d5ff">
+      kisetsu
+      <animate attributeName="fill" values="#d6d5ff;#aaa8ee;#d6d5ff" dur="4s" repeatCount="indefinite" />
+    </text>
+  </g>
+</svg>
