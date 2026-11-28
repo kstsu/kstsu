@@ -13,5 +13,5 @@
 <div><a href="https://hits.sh/github.com/kstsu/"><img src="https://hits.sh/github.com/kstsu.svg?label=kronies&color=171725&labelColor=171725&style=flat-square" alt="kronie visitor count"></a></div>
 
 <br>
-<div><a href="https://www.youtube.com/watch?v=fnp-BwjqBFc"><strong>⏳ she says she's perfect and i believe her</strong></a></div>
+<div><a>⏳</a><a href="https://www.youtube.com/watch?v=fnp-BwjqBFc"><strong> she says she's perfect and i believe her</strong></a></div>
 </div>
